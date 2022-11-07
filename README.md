@@ -1,12 +1,14 @@
 # Getting Started with Create React App
 
 This is a Single Page Application made on React js
-![image](https://user-images.githubusercontent.com/45832558/200255485-6e8b0752-e127-4ccb-8460-7b5a24a1c004.png)
+![image](https://user-images.githubusercontent.com/45832558/200386160-1c053ea2-5c29-4e12-a27a-549c26a27acb.png)
+
 
 
 
 ## 💥Features
 ✨ User can enter SQL query and run it </br>
+✨ Change font size of SQL editor </br>
 ✨ Sort data of result column wise by click on column header </br>
 ✨ Global search to get a record by entering value </br>
 ✨ Execute saved query by click on it (saved queries are displayed in dropdown style) </br>
