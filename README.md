@@ -25,7 +25,7 @@ This is a Single Page Application made on React js
 
 ## ⏱Page Load Time
 Page Load Time is 0.5sec</br>
-Test Results from Chrome-Lighthouse🔦🏠 and BrowserStack
+Test Results from Chrome-Lighthouse🔦🏠 
 ![image](https://user-images.githubusercontent.com/45832558/200248676-07ed28ce-21ca-47b1-a80e-296cfe324d3f.png)
 
 
