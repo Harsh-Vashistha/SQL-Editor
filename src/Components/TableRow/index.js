@@ -149,7 +149,7 @@ const TableRow=({columns,data})=>{
         </span>
       
         
-        {true?<div style={{display:'flex',position:'absolute',bottom:5,right:'20%'}}>
+        {true?<div style={{display:'flex',position:'fixed',bottom:5,right:'20%'}}>
             <div style={{paddingRight:10}}>
             <CustomButton type={"primary"} text={"Copy Json to Clipboard"} handleAction={()=>handleCopy(data)}/>
             </div>

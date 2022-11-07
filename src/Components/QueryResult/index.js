@@ -28,7 +28,7 @@ const QueryResult=({selectedQuery,setSelectedQuery,data})=>{
             <TableRow
               columns={columns}
               data={data}
-            />:<div>NO DATA FOUND</div>
+            />:<div style={{backgroundColor:'lightgray',color:'white',textAlign:'center'}}>NO DATA FOUND</div>
           }
           </div>
     )

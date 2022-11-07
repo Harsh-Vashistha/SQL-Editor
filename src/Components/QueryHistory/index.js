@@ -16,7 +16,7 @@ const QueryHistory=({setSelectedQuery,setData})=>{
 
     return(
       <>
-      <h2 style={{color:'white',paddingLeft:20}}>SAVED QUERIES</h2>
+      <h2 style={{color:'white',paddingLeft:20,backgroundColor:'crimson'}}>SAVED QUERIES</h2>
         <Collapse defaultActiveKey={['1']} >
             {
                   savedHistory.map((a,b)=>{

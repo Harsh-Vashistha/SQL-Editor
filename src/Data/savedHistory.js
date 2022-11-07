@@ -15,6 +15,26 @@ export const savedHistory=[
         id:4,
         name:'EMPLOYEES'
     },
+    {
+        id:5,
+        name:'TEACHER'
+    },
+    {
+        id:6,
+        name:'COMPANY'
+    },
+    {
+        id:7,
+        name:'TABLE'
+    },
+    {
+        id:8,
+        name:'RANDOM'
+    },
+    {
+        id:9,
+        name:'LAPTOP'
+    },
     
 
 ]
@@ -41,5 +61,25 @@ export const queryList={
     EMPLOYEES: [{
         id:4,
         name:'SELECT * FROM EMPLOYEES'
+    }],
+    TEACHER: [{
+        id:4,
+        name:'SELECT * FROM TEACHER'
+    }],
+    COMPANY: [{
+        id:4,
+        name:'SELECT * FROM COMPANY'
+    }],
+    TABLE: [{
+        id:4,
+        name:'SELECT * FROM TABLE'
+    }],
+    RANDOM: [{
+        id:4,
+        name:'SELECT * FROM RANDOM'
+    }],
+    LAPTOP: [{
+        id:4,
+        name:'SELECT * FROM LAPTOP'
     }],
 }
