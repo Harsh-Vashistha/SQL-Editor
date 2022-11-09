@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This is a Single Page Application made on React js
-![image](https://user-images.githubusercontent.com/45832558/200386160-1c053ea2-5c29-4e12-a27a-549c26a27acb.png)
+![image](https://user-images.githubusercontent.com/45832558/200749835-1b471a4a-3e78-47dc-bdec-2bb48e0065ff.png)
+
 
 # Website Link
 Follow [Data-Query](https://data-query.vercel.app)
